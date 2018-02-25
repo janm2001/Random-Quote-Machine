@@ -1,0 +1,44 @@
+body {
+	background: url("nature.jpg");
+	background-size: cover;
+	margin:0;
+
+
+}
+p{
+	text-align: center;
+}
+h1 {
+	color:#0004E0;
+	margin:0;
+	font-family: cursive;
+	text-align: center;
+	font-size: 250%;
+}
+
+#quote {
+	
+	height: auto;
+	margin-left: 100px;
+	width: 80%;
+	
+	text-align: center;
+	font-size: 48px;
+	word-spacing: 2.1px;
+	color: #1C0C36;
+	padding:20px;
+	text-align: center;
+}
+
+
+
+
+
+button {
+	width: 100px;
+	height: auto;
+	background: red;
+	margin-left: 70px;
+	border-radius: 20px;
+
+}
